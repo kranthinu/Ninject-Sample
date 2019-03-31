@@ -1,0 +1,9 @@
+C:\Users\Kranthi\Desktop\Kranthi .net\apex\Coding\Ninject.UI\Ninject.BLL\obj\Debug\Ninject.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Kranthi\Desktop\Kranthi .net\apex\Coding\Ninject.UI\Ninject.BLL\bin\Debug\Ninject.BLL.dll
+C:\Users\Kranthi\Desktop\Kranthi .net\apex\Coding\Ninject.UI\Ninject.BLL\bin\Debug\Ninject.BLL.pdb
+C:\Users\Kranthi\Desktop\Kranthi .net\apex\Coding\Ninject.UI\Ninject.BLL\bin\Debug\Ninject.DAL.dll
+C:\Users\Kranthi\Desktop\Kranthi .net\apex\Coding\Ninject.UI\Ninject.BLL\bin\Debug\Ninject.DataModel.dll
+C:\Users\Kranthi\Desktop\Kranthi .net\apex\Coding\Ninject.UI\Ninject.BLL\bin\Debug\Ninject.DAL.pdb
+C:\Users\Kranthi\Desktop\Kranthi .net\apex\Coding\Ninject.UI\Ninject.BLL\bin\Debug\Ninject.DataModel.pdb
+C:\Users\Kranthi\Desktop\Kranthi .net\apex\Coding\Ninject.UI\Ninject.BLL\obj\Debug\Ninject.BLL.dll
+C:\Users\Kranthi\Desktop\Kranthi .net\apex\Coding\Ninject.UI\Ninject.BLL\obj\Debug\Ninject.BLL.pdb

@@ -1,0 +1,5 @@
+C:\Users\Kranthi\Desktop\Kranthi .net\apex\Coding\Ninject.UI\Ninject.DataModel\bin\Debug\Ninject.DataModel.dll
+C:\Users\Kranthi\Desktop\Kranthi .net\apex\Coding\Ninject.UI\Ninject.DataModel\bin\Debug\Ninject.DataModel.pdb
+C:\Users\Kranthi\Desktop\Kranthi .net\apex\Coding\Ninject.UI\Ninject.DataModel\obj\Debug\Ninject.DataModel.csprojResolveAssemblyReference.cache
+C:\Users\Kranthi\Desktop\Kranthi .net\apex\Coding\Ninject.UI\Ninject.DataModel\obj\Debug\Ninject.DataModel.dll
+C:\Users\Kranthi\Desktop\Kranthi .net\apex\Coding\Ninject.UI\Ninject.DataModel\obj\Debug\Ninject.DataModel.pdb

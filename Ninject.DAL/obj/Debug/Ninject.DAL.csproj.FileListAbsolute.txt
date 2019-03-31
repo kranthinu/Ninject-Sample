@@ -1,0 +1,6 @@
+C:\Users\Kranthi\Desktop\Kranthi .net\apex\Coding\Ninject.UI\Ninject.DAL\bin\Debug\Ninject.DAL.dll
+C:\Users\Kranthi\Desktop\Kranthi .net\apex\Coding\Ninject.UI\Ninject.DAL\bin\Debug\Ninject.DAL.pdb
+C:\Users\Kranthi\Desktop\Kranthi .net\apex\Coding\Ninject.UI\Ninject.DAL\bin\Debug\Ninject.DataModel.dll
+C:\Users\Kranthi\Desktop\Kranthi .net\apex\Coding\Ninject.UI\Ninject.DAL\bin\Debug\Ninject.DataModel.pdb
+C:\Users\Kranthi\Desktop\Kranthi .net\apex\Coding\Ninject.UI\Ninject.DAL\obj\Debug\Ninject.DAL.dll
+C:\Users\Kranthi\Desktop\Kranthi .net\apex\Coding\Ninject.UI\Ninject.DAL\obj\Debug\Ninject.DAL.pdb

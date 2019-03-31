@@ -1,0 +1,17 @@
+C:\Users\Kranthi\Desktop\Kranthi .net\apex\Coding\Ninject.UI\Ninject.Test\bin\Debug\Ninject.Test.dll
+C:\Users\Kranthi\Desktop\Kranthi .net\apex\Coding\Ninject.UI\Ninject.Test\bin\Debug\Ninject.Test.pdb
+C:\Users\Kranthi\Desktop\Kranthi .net\apex\Coding\Ninject.UI\Ninject.Test\obj\Debug\Ninject.Test.csprojResolveAssemblyReference.cache
+C:\Users\Kranthi\Desktop\Kranthi .net\apex\Coding\Ninject.UI\Ninject.Test\obj\Debug\Ninject.Test.dll
+C:\Users\Kranthi\Desktop\Kranthi .net\apex\Coding\Ninject.UI\Ninject.Test\obj\Debug\Ninject.Test.pdb
+C:\Users\Kranthi\Desktop\Kranthi .net\apex\Coding\Ninject.UI\Ninject.Test\bin\Debug\Grace.dll
+C:\Users\Kranthi\Desktop\Kranthi .net\apex\Coding\Ninject.UI\Ninject.Test\bin\Debug\Grace.Moq.dll
+C:\Users\Kranthi\Desktop\Kranthi .net\apex\Coding\Ninject.UI\Ninject.Test\bin\Debug\Moq.dll
+C:\Users\Kranthi\Desktop\Kranthi .net\apex\Coding\Ninject.UI\Ninject.Test\bin\Debug\Ninject.BLL.dll
+C:\Users\Kranthi\Desktop\Kranthi .net\apex\Coding\Ninject.UI\Ninject.Test\bin\Debug\Ninject.DAL.dll
+C:\Users\Kranthi\Desktop\Kranthi .net\apex\Coding\Ninject.UI\Ninject.Test\bin\Debug\Ninject.DataModel.dll
+C:\Users\Kranthi\Desktop\Kranthi .net\apex\Coding\Ninject.UI\Ninject.Test\bin\Debug\Grace.xml
+C:\Users\Kranthi\Desktop\Kranthi .net\apex\Coding\Ninject.UI\Ninject.Test\bin\Debug\Grace.Moq.xml
+C:\Users\Kranthi\Desktop\Kranthi .net\apex\Coding\Ninject.UI\Ninject.Test\bin\Debug\Moq.xml
+C:\Users\Kranthi\Desktop\Kranthi .net\apex\Coding\Ninject.UI\Ninject.Test\bin\Debug\Ninject.BLL.pdb
+C:\Users\Kranthi\Desktop\Kranthi .net\apex\Coding\Ninject.UI\Ninject.Test\bin\Debug\Ninject.DAL.pdb
+C:\Users\Kranthi\Desktop\Kranthi .net\apex\Coding\Ninject.UI\Ninject.Test\bin\Debug\Ninject.DataModel.pdb
